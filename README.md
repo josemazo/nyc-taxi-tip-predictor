@@ -15,4 +15,4 @@ After cleaning and getting a sample from the original dataset, it's possible to 
 Extended version
 ----------------
 
-For read an extended version you can read the IPython `notebooks` that describe the complete process. You can find them in this repo, but for a better reading use [this](http://nbviewer.ipython.org/github/josemazo/nyc-taxi-tip-predictor/tree/master/notebooks/) `nbviewer` link.
+For read an extended version there are some IPython `notebooks` that describe the complete process. You can find them in this repo, but for a better reading use [this](http://nbviewer.ipython.org/github/josemazo/nyc-taxi-tip-predictor/tree/master/notebooks/) `nbviewer` link.
