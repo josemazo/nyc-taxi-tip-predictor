@@ -3,7 +3,7 @@ nyc-taxi-tip-predictor
 
 First of all, I must say thank you to [Chris Whong](https://twitter.com/chris_whong) for obtaining the incredible dataset that it's used in this project. [Here](http://chriswhong.com/open-data/foil_nyc_taxi/) is his little odyssey to get the data.
 
-![Map](./resources/map.png "Map")
+![Map](./resources/map_1.png "Map")
 
 
 TL;DR
