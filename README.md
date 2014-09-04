@@ -9,7 +9,7 @@ First of all, I must say thank you to [Chris Whong](https://twitter.com/chris_wh
 TL;DR
 -----
 
-After cleaning and getting a sample from the original dataset, it's possible to predict, with an `accuracy of 71.74%`, if the tip of a trip in a NYC taxi it's going to be `less thant 20%` or `greater than or equal to 20%` of the charge, without the possibility to use information about the passengers, a *essential* data for trying to accomplish this task.
+After cleaning and getting a sample from the original dataset, it's possible to predict, with an `accuracy of 71.74%`, if the tip of a trip in a NYC taxi it's going to be `less than 20%` or `greater than or equal to 20%` of the charge, without the possibility to use information about the passengers, a *essential* data for trying to accomplish this task.
 
 
 Extended version
